@@ -50,8 +50,8 @@ body {
   gap: 20px;
 }
 .fas.fa-chevron-down {
-  font-size: 0.75em; /* Smaller size for the arrow */
-  margin-left: 5px; /* Space between text and arrow */
+  font-size: 0.75em; 
+  margin-left: 5px;
 }
 .nav-links a {
   text-decoration: none;
@@ -148,7 +148,7 @@ margin-top: 0;}
 .box{
   width: 100px;
   height: 35px;
-  background-color: rgb(132, 72, 216); /* Background color of the box */ 
+  background-color: rgb(132, 72, 216);
   color: white;
   display: flex;
   justify-content: center;
@@ -274,7 +274,7 @@ button:hover {
   width: 100%;
   padding: 5px;
   text-align: left;
-  margin-bottom: 40px; /* Adjust this value to increase the gap */
+  margin-bottom: 40px;
 
 }
 
@@ -380,7 +380,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: calc(100vh - 100px); /* Adjust based on header and footer height */
+  height: calc(100vh - 100px);
 }
 
 .empty-state {
